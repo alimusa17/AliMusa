@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Ali 👋</h1>
-<h3 align="center">👨‍🎓 Currently studying C#</h3>
 
 - 🌱 I’m currently learning **C# Full-Stack Development**
 
