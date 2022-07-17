@@ -1,8 +1,11 @@
-<h1 align="center">Hi there, I'm Ali 👋</h1>
+<h1 align="center">Hi there, I'm'm Ali 👋</h1>
+<h3 align="center">👨‍🎓 Currently studying C#</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimusa17&label=Profile%20views&color=00e1ff&style=plastic" alt="alimusa17" /> </p>
 
 - 🌱 I’m currently learning **C# Full-Stack Development**
 
-- 💬 Ask me about **C#, .NET, Microsoft Azure**
+- 💬 Ask me about **C#,.NET, Microsoft Azure**
 
 - 📫 Reach me by e-mail **alimusa_@abv.bg**
 
