@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# Full-Stack Development**
 
-- 💬 Ask me about **C#,.NET, Microsoft Azure**
+- 💬 Ask me about **C#, .NET, Microsoft Azure**
 
 - 💡 Career changer, from **Civil Engineer** to **Web Develoer**
 
