@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C# Full-Stack Development**
 
+- 👀 I’m interested in **Web Development & Cloud Computing**
+
 - 💬 Ask me about **C#, .NET, Microsoft Azure**
 
 - 💡 Career changer, from **Civil Engineer** to **Web Develoer**
